@@ -1,30 +1,30 @@
-## Hola, soy Izan
+## Hi, I'm Izan
 
-Tengo 16 años, soy de España y vivo en Argentina. Estudio ciberseguridad, me interesa mucho la IA y en mis ratos libres leo filosofía. Me gusta crear cosas, sobre todo herramientas pequeñas y laboratorios donde probar lo que voy aprendiendo.
+I'm 16, from Spain, and I live in Argentina. I study cybersecurity, I'm really into AI, and I read philosophy in my free time. I like building things, mostly small tools and labs where I can try out what I'm learning.
 
-Ahora mismo estoy con:
+Right now I'm working on:
 
-- CTFs y laboratorios de pentesting
-- Redes: TCP/IP, DNS, HTTP y algo de Wireshark
-- Criptografía, desde el cifrado César hasta RSA
-- Cómo se usa la IA en seguridad, tanto para atacar como para defender
+- CTFs and pentesting labs
+- Networking: TCP/IP, DNS, HTTP and some Wireshark
+- Cryptography, from the Caesar cipher to RSA
+- How AI is used in security, both for attack and defense
 
-### Con qué trabajo
+### What I use
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,c,docker,git,vscode&theme=dark" />
 </p>
 
-También uso Nmap, Wireshark, Burp Suite y Metasploit, y practico en TryHackMe y Hack The Box.
+I also use Nmap, Wireshark, Burp Suite and Metasploit, and I practice on TryHackMe and Hack The Box.
 
-### Actividad
+### Activity
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=diogenes4134&show_icons=true&hide_border=true&theme=github_dark&locale=es" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenes4134&layout=compact&hide_border=true&theme=github_dark&locale=es" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=diogenes4134&show_icons=true&hide_border=true&theme=github_dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogenes4134&layout=compact&hide_border=true&theme=github_dark" />
 </p>
 
-### Contacto
+### Contact
 
 <p>
   <a href="mailto:diazgomezizan@gmail.com"><img src="https://img.shields.io/badge/Email-diazgomezizan%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -32,4 +32,4 @@ También uso Nmap, Wireshark, Burp Suite y Metasploit, y practico en TryHackMe y
   <a href="https://instagram.com/izandiazph"><img src="https://img.shields.io/badge/Instagram-@izandiazph-181717?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
-Si quieres hablar de seguridad, de algún proyecto o de lo que sea, escríbeme.
+If you want to talk about security, a project, or anything else, feel free to reach out.
