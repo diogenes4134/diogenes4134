@@ -9,6 +9,8 @@ Right now I'm working on:
 - Cryptography, from the Caesar cipher to RSA
 - How AI is used in security, both for attack and defense
 
+Spanish is my native language and I speak English. I'm also learning French and Japanese.
+
 ### What I use
 
 <p>
